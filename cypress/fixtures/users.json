@@ -1,0 +1,23 @@
+{
+    "mainUser":{
+        "email": "alexbarinov99@gmail.com",
+        "password": "12345678"
+    },
+    "userWithShortPassword":{
+        "email": "alexbarinov99@gmail.com",
+        "password": "12345"
+    },
+    "userWithWrongName":{
+        "email": "alexbarinov99@gmail.com",
+        "password": "123456"
+    },
+    "mainUserForRegistration":{
+        "email": "alexbarinov99@gmail.com",
+        "password": "123456",
+        "name": "alex12"
+    },
+    "userWithoutPassword":{
+        "email": "alexbarinov99@gmail.com",
+        "password": " "
+    }
+}
